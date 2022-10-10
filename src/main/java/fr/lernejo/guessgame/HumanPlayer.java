@@ -22,9 +22,9 @@ public class HumanPlayer implements Player {
 
         if (lowerOrGreater)
         {
-            this.logger.log("le nombre a deviner est plus grand \n");
+            this.logger.log("le nombre a deviner est plus grand ");
         }else {
-            this.logger.log("le nombre a deviner est plus petit \n");
+            this.logger.log("le nombre a deviner est plus petit ");
 
         }
     }

@@ -1,0 +1,82 @@
+2022-10-10 16:46:31.546 player le nombre a deviner est plus petit 
+
+2022-10-10 16:47:02.034 player le nombre a deviner est plus petit 
+
+2022-10-10 16:47:10.315 player le nombre a deviner est plus petit 
+
+2022-10-10 16:48:13.898 player le nombre a deviner est plus grand 
+
+2022-10-10 16:48:35.863 player le nombre a deviner est plus petit 
+
+2022-10-10 16:48:52.002 player le nombre a deviner est plus petit 
+
+2022-10-10 16:49:06.011 player le nombre a deviner est plus petit 
+
+2022-10-10 17:12:37.200 player le nombre a deviner est plus grand 
+
+2022-10-10 17:13:03.487 player le nombre a deviner est plus petit 
+
+2022-10-10 17:13:14.763 player le nombre a deviner est plus petit 
+
+2022-10-10 17:13:25.580 player le nombre a deviner est plus petit 
+
+2022-10-10 17:13:30.822 player le nombre a deviner est plus petit 
+
+2022-10-10 17:13:42.380 player le nombre a deviner est plus petit 
+
+2022-10-10 17:22:07.902 computer le nombre a deviner est plus petit
+2022-10-10 17:22:07.932 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.933 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.933 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.934 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.934 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.935 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.935 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.935 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.935 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.936 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.936 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.936 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.937 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.938 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.938 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.939 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.940 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.941 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.941 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.942 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.942 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.942 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.943 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.943 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.943 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.944 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.944 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.944 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.945 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.945 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.946 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.946 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.947 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.947 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.948 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.948 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.949 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.949 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.950 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.950 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.951 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.951 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.952 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.952 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.953 computer le nombre a deviner est plus petit
+2022-10-10 17:22:07.953 computer le nombre a deviner est plus petit
+2022-10-10 17:22:07.954 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.954 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.955 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.956 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.957 computer le nombre a deviner est plus petit
+2022-10-10 17:22:07.958 computer le nombre a deviner est plus petit
+2022-10-10 17:22:07.958 computer le nombre a deviner est plus grand
+2022-10-10 17:22:07.958 computer le nombre a deviner est plus petit
+2022-10-10 17:22:07.959 computer le nombre a deviner est plus grand

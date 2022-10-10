@@ -1,13 +1,14 @@
 package fr.lernejo.logger;
 
+import java.util.function.Predicate;
+
 public class LoggerFactory {
 
     public static Logger getLogger(String name){
 
-        //Logger console = new ConsoleLogger();
-        Logger file = new FileLogger("logs.txt");
-
-        Logger contextLogger = new ContextualLogger(name,file);
-        return contextLogger;
+       // Predicate<String> condition = message → !message.contains("player");
+        Logger contextLogger = new ContextualLogger(name,new FileLogger("logs.txt"));
+        Logger compositeLogger = new CompositeLogger(contextLogger, new ConsoleLogger());
+        return compositeLogger;
     }
 }
