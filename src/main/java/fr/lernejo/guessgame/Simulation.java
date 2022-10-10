@@ -9,7 +9,6 @@ import java.util.concurrent.TimeUnit;
 
 
 public class Simulation {
-    private final Logger logger = LoggerFactory.getLogger("simulation");
     private final Player player;  //TODO add variable type
     private long numberToGuess; //TODO add variable type
 
@@ -20,7 +19,6 @@ public class Simulation {
 
     public void initialize(long numberToGuess) {
         //TODO implement me
-        System.out.println("le nombre a deviner est :"+numberToGuess+"\n");
         this.numberToGuess =numberToGuess;
     }
 
@@ -66,9 +64,9 @@ public class Simulation {
         int milliSec = (duration - minutes*60000 - seconds*1000);
 
         if (succeed)
-            System.out.println("Felicitations vous avez reussi !!! en "+ i + " iterations\n");
+            System.out.println("Felicitations vous avez reussi !!! en "+ i + " iterations");
         else
             System.out.println("Desole vous n'avez pas reussi !!!!");
-        System.out.println("La partie a mise: "+ minutes +"min: "+seconds+"." +milliSec+"s\n");
+        System.out.println("La partie a mise: "+ minutes +"min: "+seconds+"." +milliSec+"s");
     }
 }

@@ -11,7 +11,7 @@ public class HumanPlayer implements Player {
     @Override
     public long askNextGuess() {
 
-        this.logger.log("veuillez entrer un nombre ...\n");
+        System.out.println("veuillez entrer un nombre ...\n");
 
         long number = this.clavier.nextLong();
         return number;
