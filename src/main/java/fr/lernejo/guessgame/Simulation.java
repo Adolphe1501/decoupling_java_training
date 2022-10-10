@@ -3,7 +3,9 @@ package fr.lernejo.guessgame;
 import fr.lernejo.logger.Logger;
 import fr.lernejo.logger.LoggerFactory;
 
-import java.util.Scanner;
+import java.time.Instant;
+import java.util.Date;
+import java.util.concurrent.TimeUnit;
 
 
 public class Simulation {
@@ -18,6 +20,7 @@ public class Simulation {
 
     public void initialize(long numberToGuess) {
         //TODO implement me
+        System.out.println("le nombre a deviner est :"+numberToGuess+"\n");
         this.numberToGuess =numberToGuess;
     }
 
@@ -44,10 +47,28 @@ public class Simulation {
         return result;
     }
 
-    public void loopUntilPlayerSucceed() {
-        boolean succeed = false;
-        while (!succeed)
-            this.nextRound();
+    public void loopUntilPlayerSucceed(long iterations) {
         //TODO implement me
+
+        int i=0 ;
+        long timestampStart = System.currentTimeMillis();
+        boolean succeed = false;
+        while (!succeed && i <=iterations)
+        {
+            succeed = this.nextRound();
+            i += 1 ;
+        }
+
+        long timestampEnd = System.currentTimeMillis();
+        int duration = (int) (timestampEnd-timestampStart);
+        int minutes =  duration/60000;
+        int seconds = (duration - minutes*60000) /1000 ;
+        int milliSec = (duration - minutes*60000 - seconds*1000);
+
+        if (succeed)
+            System.out.println("Felicitations vous avez reussi !!! en "+ i + " iterations\n");
+        else
+            System.out.println("Desole vous n'avez pas reussi !!!!");
+        System.out.println("La partie a mise: "+ minutes +"min: "+seconds+"." +milliSec+"s\n");
     }
 }
